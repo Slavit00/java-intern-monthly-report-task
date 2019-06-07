@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Russo",
+    "totalSales": 124,
+    "salesPeriod": 5,
+    "experienceMultiplier": "0.2567"
+  },
+  {
+    "name": "Cassandra",
+    "totalSales": 213,
+    "salesPeriod": 5,
+    "experienceMultiplier": "0.2088"
+  },
+  {
+    "name": "Grant",
+    "totalSales": 285,
+    "salesPeriod": 7,
+    "experienceMultiplier": "0.6979"
+  },
+  {
+    "name": "Aida",
+    "totalSales": 174,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.8901"
+  },
+  {
+    "name": "Mason",
+    "totalSales": 313,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.8005"
+  },
+  {
+    "name": "Logan",
+    "totalSales": 65,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.6913"
+  },
+  {
+    "name": "Moody",
+    "totalSales": 146,
+    "salesPeriod": 5,
+    "experienceMultiplier": "0.8696"
+  },
+  {
+    "name": "Burton",
+    "totalSales": 64,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.833"
+  },
+  {
+    "name": "Schwartz",
+    "totalSales": 101,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.345"
+  },
+  {
+    "name": "Madeline",
+    "totalSales": 235,
+    "salesPeriod": 7,
+    "experienceMultiplier": "0.595"
+  },
+  {
+    "name": "Alyson",
+    "totalSales": 172,
+    "salesPeriod": 5,
+    "experienceMultiplier": "0.664"
+  },
+  {
+    "name": "Daphne",
+    "totalSales": 239,
+    "salesPeriod": 6,
+    "experienceMultiplier": "0.3537"
+  },
+  {
+    "name": "Christi",
+    "totalSales": 66,
+    "salesPeriod": 7,
+    "experienceMultiplier": "0.6289"
+  }
+]
